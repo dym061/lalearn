@@ -1,8 +1,11 @@
 swedish,english,fail,pass,used
 ägg,egg,0,0,0
 ägget,the egg,0,0,0
+älg,moose,0,0,0
 älskar,love,0,0,0
 än,than,0,0,0
+anka,duck,0,0,0
+ankan,the duck,0,0,0
 ant,och,0,0,0
 apelsin,orange,0,0,0
 äpplet,the apple,0,0,0
@@ -39,10 +42,10 @@ de,they,0,0,0
 detta,this,0,0,0
 dricker,drink,0,0,0
 dryck,drink,0,0,0
-duck,anka,0,0,0
 efter,after,0,0,0
 efter,after,0,0,0
 eftersom/sedan,since,0,0,0
+elefanten,the elephant,0,0,0
 elva,eleven,0,0,0
 en,a,0,0,0
 en/ett,one,0,0,0
@@ -262,6 +265,7 @@ vad,what,0,0,0
 välkommen,welcome,0,0,0
 vän,friend,0,0,0
 vänlig/vänliga,friendly,0,0,0
+vänner,friends,0,0,0
 vår,our,0,0,0
 varandra,each other,0,0,0
 varsågod,you're welcome,0,0,0
@@ -271,6 +275,7 @@ vecka,week,0,0,0
 veckan,the week,0,0,0
 veta,know,0,0,0
 vi,we,0,0,0
+viktig,important,0,0,0
 vilket,which,0,0,0
 vill,want,0,0,0
 vin,wine,0,0,0
