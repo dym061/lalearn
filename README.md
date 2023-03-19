@@ -4,6 +4,8 @@
 
 I designed this script to learn Swedish. In my own environment, I packaged it to become lalearn.exe and I just run it as is. 
 
+![alt text](./lalearn.png)
+
 ## How it works
 
 On the CLI, it will immediately ask you for a word either in ENG or SWE which you will have to translate into the other. You will get a pass for correct and fail for wrong. It will give you 5 pairs to translate and you need to move on to the next "stage" by passing each pair successfully. Even if you have 1 wrong after having 4 correct will not allow you to proceed and have you repeat all 5 pairs successfully.
