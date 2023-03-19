@@ -4,7 +4,7 @@
 
 I designed this script to learn Swedish. In my own environment, I packaged it to become lalearn.exe and I just run it as is. 
 
-![alt text](./lalearn.png)
+![CLI Screenshot](./lalearn.png)
 
 ## How it works
 
