@@ -1,0 +1,11 @@
+# folders
+build/
+dist/
+
+# files
+/lalearn.exe
+/lalearn.ico
+/lalearn.spec
+/lalearn.ver
+/progress.csv
+/swedish - Copy.csv
